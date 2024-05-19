@@ -2,12 +2,10 @@
 <h3 align="center">I am a Java Full Stack Developer</h3>
 
 <p align="center">
-  <img src="" alt="Coding Image" />
+  <img src="https://assets-global.website-files.com/5e0f1144930a8bc8aace526c/65d5bfdfd47c1b5be1847c95_65d02a69bb7642d3cbd99ba9-7b0cc31922f9059b7cb1944ca7987df5.jpeg" alt="Coding Image"  />
 </p>
 
-<p align="center">
-  <img src="https://github.com/shindeshubham8055.png" alt="Shubham Shinde's GitHub Profile Picture" width="150" />
-</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
